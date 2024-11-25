@@ -1,4 +1,7 @@
 numpy
 pandas
-keras
+keras==3.6.0
 jax[cpu]
+tensorflow==2.18.0
+tensorflow-metal==1.1.0
+jupyter
