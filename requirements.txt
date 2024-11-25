@@ -1,6 +1,6 @@
 numpy
 pandas
-keras
+keras==3.6.0
 jax-metal==0.1.1
 jax==0.4.35
 jaxlib==0.4.34
