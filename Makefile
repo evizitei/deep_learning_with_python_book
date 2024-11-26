@@ -1,4 +1,4 @@
 .PHONY: notebook
 
 notebook:
-	python -m jupyter notebook --notebook-dir=notebooks
+	python -m jupyter lab --notebook-dir=notebooks
