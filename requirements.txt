@@ -1,9 +1,10 @@
-keras==3.6.0
-jax-metal==0.1.1
-jax==0.4.35
-jaxlib==0.4.34
+#keras==3.6.0
+keras
+#jax-metal==0.1.1
+jax==0.4.31
 jupyter==1.1.1
 matplotlib==3.9.2
-numpy==2.0.2
+numpy
 pandas
 pydot
+tensorflow==2.14.1
