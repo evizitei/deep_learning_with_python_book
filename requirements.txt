@@ -1,4 +1,5 @@
 #keras==3.6.0
+kaggle
 keras
 #jax-metal==0.1.1
 jax==0.4.31
